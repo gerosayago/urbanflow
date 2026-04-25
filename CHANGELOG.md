@@ -33,3 +33,11 @@
 - Método exceso_promedio: exceso medio como % sobre velocidad máxima.
 - Método exceso_real_promedio: exceso medio en km/h.
 - Método multas_por_ubicacion: conteo de multas por ubicación.
+
+## [Sprint 1] - Punto 05
+### Added
+- fines.jpg: top 10 patentes más reincidentes (barras horizontal).
+- hours.jpg: porcentaje de infracciones por hora (torta).
+- months.jpg: infracciones por mes ordenadas (barras horizontal).
+- hour.jpg: exceso de velocidad en registros con hora 00:00 (líneas).
+- date.jpg: exceso de velocidad en registros con fecha 1932-01-01 (líneas).
