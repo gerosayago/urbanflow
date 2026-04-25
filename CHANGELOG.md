@@ -41,3 +41,8 @@
 - months.jpg: infracciones por mes ordenadas (barras horizontal).
 - hour.jpg: exceso de velocidad en registros con hora 00:00 (líneas).
 - date.jpg: exceso de velocidad en registros con fecha 1932-01-01 (líneas).
+
+## [Sprint 1] - Punto 06
+### Added
+- Cálculo del porcentaje de infracciones con fecha inválida (1932-01-01).
+- Cálculo del porcentaje de infracciones con hora inválida (00:00).
