@@ -46,3 +46,8 @@
 ### Added
 - Cálculo del porcentaje de infracciones con fecha inválida (1932-01-01).
 - Cálculo del porcentaje de infracciones con hora inválida (00:00).
+
+## [Sprint 1] - Ejercicio 02
+### Added
+- Descarga del dataset raw en urban_flow/data/raw/.
+- Análisis exploratorio: primeras filas, tipos de datos y valores nulos.
